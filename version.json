@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/xtrr9m6rb9-svg/sub-tracker/releases/download/v1.6.1/SubTracker-v1.6.1.zip",
-  "notes": "Fix: Update checker now works correctly"
+  "version": "1.7.0",
+  "url": "https://github.com/xtrr9m6rb9-svg/sub-tracker/releases/download/v1.7.0/SubTracker-v1.7.0.zip",
+  "notes": "Sync fix, refresh button, iOS layout fix"
 }
