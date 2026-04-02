@@ -1,5 +1,5 @@
 {
-  "version": "1.8.3",
-  "url": "https://github.com/xtrr9m6rb9-svg/subtracker-releases/releases/download/v1.8.3/SubTracker-v1.8.3.zip",
-  "notes": "Auto-update on launch. Sync fix."
+  "version": "1.8.4",
+  "url": "https://github.com/xtrr9m6rb9-svg/subtracker-releases/releases/download/v1.8.4/SubTracker-v1.8.4.zip",
+  "notes": "Auto-sync every 30 seconds"
 }
