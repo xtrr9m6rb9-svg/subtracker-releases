@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
-  "url": "https://github.com/xtrr9m6rb9-svg/subtracker-releases/releases/download/v1.8.1/SubTracker-v1.8.1.zip",
-  "notes": "Fix: Added subscriptions no longer disappear"
+  "version": "1.8.2",
+  "url": "https://github.com/xtrr9m6rb9-svg/subtracker-releases/releases/download/v1.8.2/SubTracker-v1.8.2.zip",
+  "notes": "Fix: Proper sync conflict resolution using timestamps"
 }
